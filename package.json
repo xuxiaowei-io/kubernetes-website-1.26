@@ -1,7 +1,7 @@
 {
   "name": "kubernetes-v1.26",
   "description": "Kubernetes v1.26 离线文档",
-  "version": "1.26.15",
+  "version": "1.26.16",
   "type": "module",
   "author": {
     "name": "徐晓伟",
